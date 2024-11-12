@@ -175,7 +175,7 @@
 
 <script>
     function confirmDelete(event) {
-        if (!confirm('Bạn có chắc chắn muốn xóa người dùng này không?')) {
+        if (!confirm('Bạn có chắc chắn muốn xóa người dùng này không ?')) {
             event.preventDefault();
         }
     }
